@@ -10,9 +10,6 @@ namespace Snake
 	{
 		static void Main( string[] args )
 		{
-            /* небольшие измененния 2 */
-            /* небольшие измененния 3 */
-            /* небольшие измененния 31 */
             Point p1 = new Point(1, 3, '*');
 			p1.Draw();
 
